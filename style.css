@@ -428,7 +428,10 @@
   }
   .contact__links i:hover{
     transform: scale(1.);
-    color: var(--color-light-white);
+    color: var(--color-dark-pink);
+  }
+  .contact__links i{
+    color: var(--color-white);
   }
 
   /* Scroll */
